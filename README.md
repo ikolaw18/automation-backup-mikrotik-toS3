@@ -10,3 +10,8 @@ Cara pakai:
 - Jalankan ( $ python mikrotik_backup.py )
 
 - atau set via Task Scheduler via Windows / Linux
+
+![alt text](https://github.com/ikolaw18/automation-backup-mikrotik-toS3/blob/ca0b8f0f6d3a994482b4af6595d3b74cb6725dd9/notify_telegram.png?raw=true)
+![alt text](https://github.com/ikolaw18/automation-backup-mikrotik-toS3/blob/ca0b8f0f6d3a994482b4af6595d3b74cb6725dd9/Bucket_S3.png?raw=true)
+
+
